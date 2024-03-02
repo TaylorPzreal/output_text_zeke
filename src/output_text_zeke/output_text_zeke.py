@@ -7,6 +7,7 @@ def load_text(input_file):
   Args:
       input_file (string): input file path
   """
+  print("ok")
   with open(input_file, "r") as file:
     text = file.read()
 
