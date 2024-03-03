@@ -10,7 +10,9 @@ $ pip install output_text_zeke
 
 ## Usage
 
-- TODO
+```sh
+outputhello --count 2 --name oktest
+```
 
 ## Contributing
 
